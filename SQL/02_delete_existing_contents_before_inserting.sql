@@ -1,0 +1,1 @@
+DELETE FROM stg_order_lines_raw;

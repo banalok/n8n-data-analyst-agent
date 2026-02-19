@@ -1,0 +1,1 @@
+Via manual mapping inside n8n

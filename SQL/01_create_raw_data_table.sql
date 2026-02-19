@@ -1,0 +1,23 @@
+CREATE TABLE IF NOT EXISTS stg_order_lines_raw (
+  order_id text,
+  customer_id text,
+  customer_name text,
+  customer_id_agg text,
+  state text,
+  currency text,
+  product_id text,
+  product_name text,
+  category text,
+  price_usd numeric,
+  order_qty numeric,
+  delivery_qty numeric,
+  order_placement_date text,
+  agreed_delivery_date text,
+  actual_delivery_date text,
+  on_time boolean,
+  in_full boolean,
+  on_time_in_full boolean,
+  ontime_target_pct numeric,
+  infull_target_pct numeric,
+  otif_target_pct numeric
+);
