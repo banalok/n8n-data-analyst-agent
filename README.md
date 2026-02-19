@@ -33,6 +33,13 @@ This project automates that workflow:
 - **OpenAI API** (LLM-generated executive report)
 
 ---
+## Demo
+
+**Workflow Demo:**
+![Demo](https://github.com/banalok/n8n-data-analyst-agent/blob/main/demo/demo.gif)
+
+**Database:**
+![PostgreSQL Screenshot](https://github.com/banalok/n8n-data-analyst-agent/blob/main/demo/PostgreSQL.PNG)
 
 ## Data model (Star Schema)
 
